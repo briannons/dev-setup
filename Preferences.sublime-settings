@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Babel/Next.tmTheme",
+	"find_selected_text": true,
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"tab_size": 4,
+	"theme": "Mithril.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
