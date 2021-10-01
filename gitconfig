@@ -27,7 +27,7 @@
     mgs = merge --squash
     pl = pull
     pu = push
-    puO = push --set-upstream origin
+    puO = push --set-upstream origin HEAD
     rb = rebase
     rba = rebase --abort
     rbc = rebase --continue
