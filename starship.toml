@@ -1,0 +1,27 @@
+add_newline = false
+
+[username]
+show_always = true
+style_user = "fg:99"
+
+[directory]
+truncation_length = 1
+style = "fg:45"
+
+[cmd_duration]
+disabled = true
+
+[java]
+disabled = true
+
+[nodejs]
+disabled = true
+
+[git_branch]
+style = "fg:79"
+
+[git_status]
+style = "bold fg:219"
+
+[package]
+disabled = true
