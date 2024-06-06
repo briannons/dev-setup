@@ -2,26 +2,33 @@ add_newline = false
 
 [username]
 show_always = true
-style_user = "fg:99"
+style_user = "fg:45"
 
 [directory]
 truncation_length = 1
-style = "fg:45"
+style = "fg:79"
 
 [cmd_duration]
 disabled = true
 
+[container]
+style = "fg:250"
+format = '[$symbol]($style) '
+
 [java]
+disabled = true
+
+[python]
 disabled = true
 
 [nodejs]
 disabled = true
 
 [git_branch]
-style = "fg:79"
+style = "fg:99"
 
 [git_status]
-style = "bold fg:219"
+style = "bold fg:183"
 
 [package]
 disabled = true
