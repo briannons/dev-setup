@@ -18,7 +18,7 @@
     cp = cherry-pick
     did = diff develop
     dih = diff HEAD
-    dim = diff master
+    dim = diff mainline
     logls = log --name-status
     logpr = log --graph --pretty=format:'%Cred%h%Creset -%C(bold green)%d%Creset %s (%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
     logtr = log --graph --pretty='%C(auto)%h %s %C(cyan)-%an%C(auto)%+d %C(auto)%ci' --all
